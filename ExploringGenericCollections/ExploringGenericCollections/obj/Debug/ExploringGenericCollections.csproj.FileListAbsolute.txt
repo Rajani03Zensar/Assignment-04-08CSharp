@@ -1,0 +1,7 @@
+D:\Dot net\DotnetConsoleApps\ExploringGenericCollections\ExploringGenericCollections\bin\Debug\ExploringGenericCollections.exe.config
+D:\Dot net\DotnetConsoleApps\ExploringGenericCollections\ExploringGenericCollections\bin\Debug\ExploringGenericCollections.exe
+D:\Dot net\DotnetConsoleApps\ExploringGenericCollections\ExploringGenericCollections\bin\Debug\ExploringGenericCollections.pdb
+D:\Dot net\DotnetConsoleApps\ExploringGenericCollections\ExploringGenericCollections\obj\Debug\ExploringGenericCollections.csprojAssemblyReference.cache
+D:\Dot net\DotnetConsoleApps\ExploringGenericCollections\ExploringGenericCollections\obj\Debug\ExploringGenericCollections.csproj.CoreCompileInputs.cache
+D:\Dot net\DotnetConsoleApps\ExploringGenericCollections\ExploringGenericCollections\obj\Debug\ExploringGenericCollections.exe
+D:\Dot net\DotnetConsoleApps\ExploringGenericCollections\ExploringGenericCollections\obj\Debug\ExploringGenericCollections.pdb
